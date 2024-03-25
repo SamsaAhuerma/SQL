@@ -23,3 +23,13 @@ Para más información detallada hacerca de SQLite sientanse con la libertad de 
 https://www.notion.so/SQL-7175d721ba1542799c3719e830e703d5?pvs=4
 
 La base de datos Northwind es una excelente opción para aprender SQL debido a su estructura simple pero completa, que cubre una amplia gama de conceptos de bases de datos empresariales. Además, al ser una base de datos de muestra ampliamente utilizada, ofrece una gran cantidad de recursos y ejemplos disponibles en línea para facilitar el aprendizaje y la práctica.
+
+## Próximos Pasos
+
+Estos son algunos de los próximos pasos que planeo realizar en este repositorio:
+
+- Agregar más consultas SQL para explorar la base de datos Northwind.
+- Incluir ejemplos de manipulación de datos y consultas más avanzadas.
+- Integrar visualizaciones de datos utilizando herramientas como Matplotlib y Seaborn.
+- Explorar otras bases de datos de ejemplo y compararlas con Northwind.
+
