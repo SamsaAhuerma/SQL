@@ -20,7 +20,7 @@ Puedes instalar estas bibliotecas utilizando pip desde la terminal:
 pip install pandas matplotlib
 
 Para más información detallada hacerca de SQLite sientanse con la libertad de entrar a mi cuaderno de apuntes: 
-https://www.notion.so/SQL-7175d721ba1542799c3719e830e703d5?pvs=4
+https://rose-palm-23f.notion.site/SQL-7175d721ba1542799c3719e830e703d5
 
 La base de datos Northwind es una excelente opción para aprender SQL debido a su estructura simple pero completa, que cubre una amplia gama de conceptos de bases de datos empresariales. Además, al ser una base de datos de muestra ampliamente utilizada, ofrece una gran cantidad de recursos y ejemplos disponibles en línea para facilitar el aprendizaje y la práctica.
 
